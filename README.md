@@ -1,0 +1,5 @@
+- 👋 Hi, I’m codemaster
+- 👀 I’m interested in computer science and programming.
+- 🌱 I’m currently learning AI.
+- 💞️ I’m looking to collaborate on complex  projects.
+- 📫 How to reach me codemaster800@gmail.com
